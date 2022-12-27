@@ -1,2 +1,2 @@
 # nuvometa_frontend
-Single stop solution for searching materials in materials
+Old school metallurgy meets new age data science
